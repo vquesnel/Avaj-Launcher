@@ -1,0 +1,90 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+
+[INFO] : New cycle n°1
+Baloon#B1(1): It's snowing. We're gonna crash.
+Baloon#B2(2): 'the fuck ! I am blind!!
+JetPlane#J1(3): OMG! Winter is coming!
+Helicopter#H1(4): My rotor is going to freeze!
+Helicopter#H1(4): landing.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6): May god bless the radar.
+Baloon#B3(7): Let's enjoy the good weather and take some pics.
+JetPlane#J2(8): Where is the A / C ?
+Helicopter#H4(9): Ehhh, I knew I should have to fix these wipers...
+[INFO]: End of cycle n°1
+
+[INFO] : New cycle n°2
+Baloon#B1(1): Damn you rain! You messed up my baloon.
+Baloon#B2(2): Let's enjoy the good weather and take some pics.
+JetPlane#J1(3): It's raining. Better watch out for lightings.
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+JetPlane#J2(8): It's raining. Better watch out for lightings.
+Helicopter#H4(9): May god bless the radar.
+[INFO]: End of cycle n°2
+
+[INFO] : New cycle n°3
+Baloon#B1(1): It's snowing. We're gonna crash.
+Baloon#B2(2): Damn you rain! You messed up my baloon.
+JetPlane#J1(3): MAYDAY MAYDAY, PILOT HERE, I AM BLIND !
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): May god bless the radar.
+Baloon#B3(7): It's snowing. We're gonna crash.
+JetPlane#J2(8): MAYDAY MAYDAY, PILOT HERE, I AM BLIND !
+Helicopter#H4(9): This is hot.
+[INFO]: End of cycle n°3
+
+[INFO] : New cycle n°4
+Baloon#B1(1): Damn you rain! You messed up my baloon.
+Baloon#B2(2): It's snowing. We're gonna crash.
+Baloon#B2(2): landing.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+JetPlane#J2(8): Where is the A / C ?
+Helicopter#H4(9): This is hot.
+[INFO]: End of cycle n°4
+
+[INFO] : New cycle n°5
+Baloon#B1(1): It's snowing. We're gonna crash.
+Baloon#B1(1): landing.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H2(5): landing.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Baloon#B3(7): It's snowing. We're gonna crash.
+Baloon#B3(7): landing.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+Helicopter#H4(9): This is hot.
+[INFO]: End of cycle n°5
+
+[INFO] : New cycle n°6
+JetPlane#J1(3): Where is the A / C ?
+Helicopter#H3(6): Ehhh, I knew I should have to fix these wipers...
+JetPlane#J2(8): It's raining. Better watch out for lightings.
+Helicopter#H4(9): This is hot.
+[INFO]: End of cycle n°6
+
+[INFO] : New cycle n°7
+JetPlane#J1(3): Where is the A / C ?
+Helicopter#H3(6): May god bless the radar.
+JetPlane#J2(8): MAYDAY MAYDAY, PILOT HERE, I AM BLIND !
+Helicopter#H4(9): This is hot.
+[INFO]: End of cycle n°7
+
+[INFO] : New cycle n°8
+JetPlane#J1(3): Where is the A / C ?
+Helicopter#H3(6): This is hot.
+JetPlane#J2(8): Where is the A / C ?
+Helicopter#H4(9): This is hot.
+[INFO]: End of cycle n°8
